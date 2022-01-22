@@ -18,6 +18,8 @@ fw12_038 Arvind Kumar Mahato
 
 Execution...
 
+Blogpost Link : https://medium.com/@shivamblogs/cloning-myglamm-com-using-html-css-javascript-a126f046c178
+
 Want to run in your local Machine? Great!
 
 To run, follow these steps:
