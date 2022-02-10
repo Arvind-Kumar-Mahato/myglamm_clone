@@ -26,7 +26,7 @@ To run, follow these steps:
 
 Clone my repository https://github.com/Arvind-Kumar-Mahato/myglamm_clone
 
-Open that code in your VS code html/index.html
+Open that code in your VS code and put all the file in a single floder.
 
 Open the index.html on Live server
 
